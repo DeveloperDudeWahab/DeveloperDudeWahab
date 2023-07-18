@@ -1,0 +1,32 @@
+* {
+    margin: 0%;
+    padding: 0%;
+
+}
+
+
+#pe {
+    margin-left: 50%;
+}
+
+#pr {
+    margin-left: 30%;
+}
+
+#te {
+    margin-right: 50%;
+}
+
+#bi {
+    margin-left: 60%;
+    color: white;
+}
+
+#bp {
+    margin-left: 60%;
+    color: white;
+}
+
+.body {
+    background-image: url(bmw4.jpg);
+}
